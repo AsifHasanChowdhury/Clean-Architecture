@@ -1,0 +1,6 @@
+@AmandaPortal_HostAddress = http://localhost:5017
+
+GET {{AmandaPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
